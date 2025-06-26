@@ -1,4 +1,4 @@
-# Prabodh Kumar – Tandemloop Screening Test
+# Prabodh Kumar 
 
 ## Language Used:
 Java
